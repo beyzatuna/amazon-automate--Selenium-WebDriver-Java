@@ -8,7 +8,7 @@ public class Class1 {
 
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", "C:/Users/BEYZA TUNA/Downloads/selenium/ChromeDriver/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "add your driver path");
         WebDriver driver;
         driver = new ChromeDriver();
 
